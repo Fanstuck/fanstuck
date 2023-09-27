@@ -25,4 +25,6 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fanstuck&repo=ChatGLM-6B&theme=vue-light" />
   </a>
 </p>
+![fanstuck's github activity graph](https://raw.githubusercontent.com/Fanstuck/fanstuck/output/github-contribution-grid-snake.svg)
+
 
