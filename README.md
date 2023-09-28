@@ -13,7 +13,7 @@
 <table border=1>
   <tr>
     <td><img src="https://stats.justsong.cn/api/csdn?id=master_hunter&theme=dark&lang=zh-CN" alt="fanstuck的CSDN数据" style="zoom:100%;" align="left"/></td>
-    <td><div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yang-tian-hub" style="zoom:100%;" align="left" /> </div></td>
+    <td><div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=fanstuck" style="zoom:100%;" align="left" /> </div></td>
   </tr>
   
 </table>
