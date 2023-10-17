@@ -31,5 +31,5 @@
 ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fanstuck&theme=vue-light)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=fanstuck"></img>
 
-![fanstuck's github activity graph](https://raw.githubusercontent.com/Fanstuck/fanstuck/output/github-contribution-grid-snake.svg)
+
 
