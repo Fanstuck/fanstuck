@@ -6,14 +6,13 @@
 <table border=0>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=fanstuck&show_icons=true&count_private=true&theme=vue-light&hide_border=true" alt="fanstuck's GitHub stats" style="zoom:100%;" align="left"/></td>
-    <td><img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=3927915182964183&hide_border=true" alt="fanstuck的掘金数据" style="zoom:100%;" align="left"/></td>
+    
   </tr>
 </table>
 
 <table border=1>
   <tr>
     <td><img src="https://stats.justsong.cn/api/csdn?id=master_hunter&theme=dark&lang=zh-CN" alt="fanstuck的CSDN数据" style="zoom:100%;" align="left"/></td>
-    <td><div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=fanstuck" style="zoom:100%;" align="left" /> </div></td>
   </tr>
   
 </table>
